@@ -22,5 +22,6 @@ public class displayDigitAndCharter {
             count += digi;
         }
         System.out.println("final:" + count);
+//        System.out.println("final:" + count);
     }
 }
